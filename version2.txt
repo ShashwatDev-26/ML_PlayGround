@@ -1,0 +1,4 @@
+>> The data_generator have editing option where the columns name can be editable
+>> Target valu can be selected by moving columns to the extreem Right 
+>> CSV Upload option on datagenerator will be available 
+>> 

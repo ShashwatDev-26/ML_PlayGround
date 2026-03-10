@@ -1,0 +1,22 @@
+Task_1  >> install a streamlit ✅
+Task_2  >> Make things executable from any where ✅
+Task_3  >> page configuration ✅
+Task_4  >> how the rerun works ✅
+Task_5  >>  how the differentiate between classification and regression ✅
+Task_6  >>  Complete the Login and dummy data embadding ✅
+Task_7  >>  complete the Auto ML
+Task_8  >>  create a import data first ✅
+Task_9  >>  create a model recognization ✅
+Task_10 >>  Write a code to autodetecte the ML problem based on target of data ✅
+Task_11 >>  Based on problem create a simple models dictionary and save this model in dictionary ✅
+Task_12 >>  create a folder to save model and fetch the model ✅
+Task_13 >>  Write a code for selection of instance of ML model ✅
+Task_14 >>  creat a ctrl environment for set and reset the data instance which will going to save on save_model directory
+Task_15 >>  Create a module for Parameter selection for an specific module use the same class 
+Task_15 >>  
+Task_15 >>  
+Task_15 >>  
+Task_15 >>  
+Task_15 >>  
+Task_15 >>  
+Task_15 >>  
