@@ -11,9 +11,9 @@ Task_10 >>  Write a code to autodetecte the ML problem based on target of data �
 Task_11 >>  Based on problem create a simple models dictionary and save this model in dictionary ✅
 Task_12 >>  create a folder to save model and fetch the model ✅
 Task_13 >>  Write a code for selection of instance of ML model ✅
-Task_14 >>  creat a ctrl environment for set and reset the data instance which will going to save on save_model directory
+Task_14 >>  Write a module to fetch the markdown files and display respectivelyk.
 Task_15 >>  Create a module for Parameter selection for an specific module use the same class 
-Task_15 >>  
+Task_15 >>  creat a ctrl environment for set and reset the data instance which will going to save on save_model directory
 Task_15 >>  
 Task_15 >>  
 Task_15 >>  

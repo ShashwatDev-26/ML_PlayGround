@@ -105,19 +105,27 @@ class modelSelection(dummyData):
                 joblib.dump(model,fileaddress)
         
 class ModelTraining:
-    pass
+    def __init__(self,model):
+        self.model = model
+    def parameterExtrection(self):
+        print(self.model.get_params())
+
+    
+
 
         
 
         
 
 
-# if __name__ == "__main__":
-#     test = modelSelection("Loan_defaulter")
-#     test.file_and_data()
-#     test.import_Data()
-#     test.model_recognization()
-#     test.model_select()
+if __name__ == "__main__":
+    # test = modelSelection("Loan_defaulter")
+    # test.file_and_data()
+    # test.import_Data()
+    # test.model_recognization()
+    # test.model_select()
+    test = ModelTraining(DecisionTreeClassifier())
+    test.parameterExtrection()
 
 
 
